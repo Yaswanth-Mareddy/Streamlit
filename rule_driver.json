@@ -1,0 +1,17 @@
+[
+  {
+    "condition_parameter": "location",
+    "parameter_value": "New York",
+    "emoji": ":pushpin:"
+  },
+  {
+    "condition_parameter": "temperature",
+    "parameter_value": "5",
+    "emoji": ":thermometer:"
+  },
+  {
+    "condition_parameter": "time",
+    "parameter_value": "05:00",
+    "emoji": ":clock3:"
+  }
+]

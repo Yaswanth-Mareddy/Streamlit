@@ -1,0 +1,48 @@
+
+[
+    {
+      "lp": "WMI6VMR",
+      "screen": "1",
+      "ad": "ad1"
+    },
+    {
+      "lp": "WMI6VMR",
+      "screen": "2",
+      "ad": "ad1"
+    },
+    {
+      "lp": "WMI6VMR",
+      "screen": "3",
+      "ad": "ad1"
+    },
+    {
+      "lp": "ET66SMX",
+      "screen": "1",
+      "ad": "ad2"
+    },
+    {
+      "lp": "ET66SMX",
+      "screen": "2",
+      "ad": "ad2"
+    },
+    {
+      "lp": "ET66SMX",
+      "screen": "3",
+      "ad": "ad2"
+    },
+    {
+      "lp": "LMN",
+      "screen": "1",
+      "ad": "carC1"
+    },
+    {
+      "lp": "LMN",
+      "screen": "2",
+      "ad": "carC2"
+    },
+    {
+      "lp": "LMN",
+      "screen": "3",
+      "ad": "carC3"
+    }
+  ]

@@ -1,0 +1,22 @@
+[
+  {
+    "location": "Bangalore",
+    "temperature": "28",
+    "time": "17:00"
+  },
+  {
+    "location": "Bochum",
+    "temperature": "5",
+    "time": "12:00"
+  },
+  {
+    "location": "London",
+    "temperature": "4",
+    "time": "11:00"
+  },
+  {
+    "location": "New York",
+    "temperature": "5",
+    "time": "05:00"
+  }
+]

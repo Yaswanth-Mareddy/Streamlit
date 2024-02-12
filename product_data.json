@@ -1,0 +1,58 @@
+[
+  {
+    "product_id": "1",
+    "product_name": "Coke 300ml",
+    "product_price": "3",
+    "product_image_location": "https://as2.ftcdn.net/v2/jpg/02/83/22/53/1000_F_283225343_1pXXdsL8ivth4UOjvygvfqGUKFCNoPvg.jpg",
+    "final_price": "3.45",
+    "display_status": "continue"
+  },
+  {
+    "product_id": "2",
+    "product_name": "Diet Coke",
+    "product_price": "1.63",
+    "product_image_location": "https://as2.ftcdn.net/v2/jpg/03/11/34/13/1000_F_311341340_VBFtYbtkqOHcuAl2SKvhqasAzDEkZXUu.jpg",
+    "final_price": "1.87",
+    "display_status": "continue"
+  },
+  {
+    "product_id": "3",
+    "product_name": "Sandwich",
+    "product_price": "2",
+    "product_image_location": "https://as1.ftcdn.net/v2/jpg/03/00/01/48/1000_F_300014841_as1yxTrKUCjXOm4tBYjK20t44on0QHCq.jpg",
+    "final_price": "2.3",
+    "display_status": "continue"
+  },
+  {
+    "product_id": "4",
+    "product_name": "Burger",
+    "product_price": "3.67",
+    "product_image_location": "https://as2.ftcdn.net/v2/jpg/01/69/56/95/1000_F_169569546_zaLG8x4tyIu3SDn1jYWXThVpMjCEbn8Q.jpg",
+    "final_price": "4.22",
+    "display_status": "continue"
+  },
+  {
+    "product_id": "5",
+    "product_name": "salad",
+    "product_price": "5.00",
+    "product_image_location": "https://as1.ftcdn.net/v2/jpg/03/19/44/92/1000_F_319449274_QUXTvM3BKUpZ67rtm22bUhOFxwmLlPa1.jpg",
+    "final_price": "5.75",
+    "display_status": "continue"
+  },
+  {
+    "product_id": "6",
+    "product_name": "crisps",
+    "product_price": "1.0",
+    "product_image_location": "https://as2.ftcdn.net/v2/jpg/01/98/04/77/1000_F_198047746_CAK7BjNBue6y2UPtaKmBJE5iriaCRQ2T.jpg",
+    "final_price": "1.15",
+    "display_status": "continue"
+  },
+  {
+    "product_id": "default",
+    "product_name": "bp",
+    "product_price": "0",
+    "product_image_location": "https://as2.ftcdn.net/v2/jpg/02/96/52/71/1000_F_296527165_ORzP2nuLRrN17FoCfVVustodvKhtFE9U.jpg",
+    "final_price": "0.0",
+    "display_status": null
+  }
+]
